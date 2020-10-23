@@ -1,0 +1,4 @@
+prefix=""
+location=""
+sqladmin=""
+sqlpassword=""

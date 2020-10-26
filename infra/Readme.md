@@ -1,4 +1,4 @@
-#Infrastructure Readme
+# Infrastructure Readme
 
 Docker container with:
   - Azure CLI
